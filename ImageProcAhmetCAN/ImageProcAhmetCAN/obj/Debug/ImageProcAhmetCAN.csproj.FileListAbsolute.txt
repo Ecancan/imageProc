@@ -1,0 +1,12 @@
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\bin\Debug\ImageProcAhmetCAN.exe.config
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\bin\Debug\ImageProcAhmetCAN.exe
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\bin\Debug\ImageProcAhmetCAN.pdb
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.csprojResolveAssemblyReference.cache
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.Form1.resources
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.Properties.Resources.resources
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.csproj.GenerateResource.cache
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.csproj.CoreCompileInputs.cache
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.exe
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.pdb
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.Form2.resources
+D:\github\goruntu\ImageProcAhmetCAN\ImageProcAhmetCAN\obj\Debug\ImageProcAhmetCAN.Form3.resources
